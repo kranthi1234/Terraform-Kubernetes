@@ -1,6 +1,10 @@
 # Terraform-Kubernetes
-WordPress installation
+WordPress installation via Terraform
+
 Terraform init
+
 Terraform plan
-Terraform apply 
+
+Terraform apply
+
 Terraform destroy
